@@ -22,9 +22,12 @@ npm install prelodr --save-dev
 ```
 
 ### CDN
-The UMD and style files are also available on [unpkg](https://unpkg.com):
+The UMD and style files are also available on [jsDelivr](https://www.jsdelivr.com/package/npm/prelodr) [unpkg](https://unpkg.com):
 
 ```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prelodr@2/dist/prelodr.min.css">
+<script src="https://cdn.jsdelivr.net/npm/prelodr@2/dist/prelodr.min.js"></script>
+<!-- or -->
 <link href="https://unpkg.com/prelodr/dist/prelodr.min.css">
 <script src="https://unpkg.com/prelodr/dist/prelodr.min.js"></script>
 ```
